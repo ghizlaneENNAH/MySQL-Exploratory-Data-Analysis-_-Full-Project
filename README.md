@@ -28,7 +28,7 @@ This project focuses on data cleaning and exploratory data analysis (EDA) using 
 
 ## Tools Used
 
-- MySQL / PostgreSQL  
+- MySQL 
 - SQL Window Functions  
 - Aggregate Functions (SUM, AVG, MAX, MIN)  
 
